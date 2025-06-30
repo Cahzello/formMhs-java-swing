@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package sistempenilaianmahasiswa;
 
 /**
@@ -18,7 +17,7 @@ public class SistemPenilaianMahasiswa {
     public static void main(String[] args) {
         // TODO code application logic here
         frm_utama utama = new frm_utama();
-        utama   .setVisible(true);
+        utama.setVisible(true);
     }
-    
+
 }
